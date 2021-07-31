@@ -9,7 +9,8 @@ export default function Home() {
       <title>WebDev with react</title>
       <meta name="keywords" content="web development, programming"/>
     </Head>
-     <h1>Welcome to Next</h1>
+     <h1>I am <span>Riya Gupta.</span></h1>
+     <p>Frontend Web Developer</p>
     </div>
   )
 }
